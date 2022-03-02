@@ -1,0 +1,16 @@
+{
+  "name": "nodeexpresstut",
+  "version": "1.0.0",
+  "description": "node & express practics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "U",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pug": "^3.0.2",
+    "sudo": "^1.0.3"
+  }
+}
